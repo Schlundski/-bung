@@ -1,0 +1,16 @@
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\bin\Debug\net8.0-windows\Übung 3 zur SA.exe
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\bin\Debug\net8.0-windows\Übung 3 zur SA.deps.json
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\bin\Debug\net8.0-windows\Übung 3 zur SA.runtimeconfig.json
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\bin\Debug\net8.0-windows\Übung 3 zur SA.dll
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\bin\Debug\net8.0-windows\Übung 3 zur SA.pdb
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung_3_zur_SA.Form1.resources
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.csproj.GenerateResource.cache
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.AssemblyInfoInputs.cache
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.AssemblyInfo.cs
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.csproj.CoreCompileInputs.cache
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.dll
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\refint\Übung 3 zur SA.dll
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.pdb
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\Übung 3 zur SA.genruntimeconfig.cache
+C:\Users\nico_\source\repos\Übung 3 zur SA\Übung 3 zur SA\obj\Debug\net8.0-windows\ref\Übung 3 zur SA.dll
